@@ -1,0 +1,14 @@
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\bin\Debug\netcoreapp2.2\dummyJWT.deps.json
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\bin\Debug\netcoreapp2.2\dummyJWT.runtimeconfig.json
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\bin\Debug\netcoreapp2.2\dummyJWT.runtimeconfig.dev.json
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\bin\Debug\netcoreapp2.2\dummyJWT.dll
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.csprojAssemblyReference.cache
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.csproj.CoreCompileInputs.cache
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.RazorAssemblyInfo.cache
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.RazorAssemblyInfo.cs
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.AssemblyInfoInputs.cache
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.AssemblyInfo.cs
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.RazorTargetAssemblyInfo.cache
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\bin\Debug\netcoreapp2.2\dummyJWT.pdb
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.dll
+d:\Users\gabriel_sule\source\repos\dummyJWT\dummyJWT\obj\Debug\netcoreapp2.2\dummyJWT.pdb
